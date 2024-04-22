@@ -20,11 +20,11 @@
 
 .container h2{
     font-size: 27px;
-    font-weight:500px ;
+    font-weight:500 ;
 
 }
 
-.container ul li{
+.container ul li {
     display: flex;
     align-items: center;
     height: 70px;
@@ -52,12 +52,12 @@
     margin:auto;
     font-size:18px;
 }
-.container.correct {
-    background: #dffff2;
+.container .correct {
+    background-color: #dffff2;
     border-color: #00d397;
 }
 
-.container.wrong {
-    background: #FFEBEB;
+.container .wrong {
+    background-color: #FFEBEB;
     border-color: #FF4A4A;
 }

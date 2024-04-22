@@ -16,6 +16,36 @@ export const data=[
         ans :3
 
 
+    },
+    {
+        question:'Gods own contry?' ,
+        option1: 'Kerala',
+        option2: 'Uttar Pradesh',
+        option3:'Madhya Pradesh',
+        option4:'Gujarat',
+        ans :1
+
+
+    },
+    {
+        question:'Largest Planet in the Solar System' ,
+        option1: 'Sun',
+        option2: 'Mercury',
+        option3:'Jupitor',
+        option4:'Earth',
+        ans :3
+
+
+    },
+    {
+        question:'Chemical formula of Water' ,
+        option1: 'CaO',
+        option2: 'H2O',
+        option3:'COOCH',
+        option4:'P2O',
+        ans :2
+
+
     }
 
 ]
